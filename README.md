@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jakaria-Ahmood/Jakaria-Ahmood/main/Green%20and%20White%20Modern%20Marketing%20Agency%20Linkedin%20Banner.png" alt="Jakaria's Banner" width="100%" />
+  <img src="Green and White Modern Marketing Agency Linkedin Banner.png" alt="Jakaria's Banner" width="100%" />
 </p>
 
 
