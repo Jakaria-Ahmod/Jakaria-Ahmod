@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jakaria-Ahmood/Jakaria-Ahmood/main/Green%20and%20White%20Modern%20Marketing%20Agency%20Linkedin%20Banner.png" alt="Jakaria's Banner" width="100%" />
+</p>
+
+
 <h1 align="center">Hi 👋, I'm 🚀 Jakaria Ahmond | Web Developer | JavaScript Enthusiast</h1>
 <h3 align="center">Front-End Developer | Currently Learning MERN Stack Web Development</h3>
 
