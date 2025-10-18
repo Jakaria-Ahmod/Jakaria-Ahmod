@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning **MERN Stack Web Development**
 - 💬 Ask me about **MERN STACk**
 - 📫 How to reach me **jakariaahmodmd@gmail.com**
-- 👨‍💻 All of my projects are available at **https://jakaria-vert.vercel.app/**
+- 👨‍💻 All of my projects are available at **[https://mdjakariaahmod.onrender.com](https://mdjakariaahmod.onrender.com)**
 - 📄 Know about my experiences **https://drive.google.com/file/d/1ssclT7KWf-w2ir7CO6IArMey_QyFDMIR/view**
 
 <div> <a href="https://www.linkedin.com/in/mdjakariaahmod" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
