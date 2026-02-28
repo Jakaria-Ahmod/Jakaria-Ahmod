@@ -15,7 +15,6 @@
 - 💬 Ask me about **MERN STACk**
 - 📫 How to reach me **jakariaahmodmd@gmail.com**
 - 👨‍💻 All of my projects are available at **[https://mdjakariaahmod.onrender.com](https://mdjakariaahmod.onrender.com)**
-- 📄 Know about my experiences **https://drive.google.com/file/d/1ssclT7KWf-w2ir7CO6IArMey_QyFDMIR/view**
 
 <div> <a href="https://www.linkedin.com/in/mdjakariaahmod" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/Jakaria-Ahmod" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
@@ -41,10 +40,6 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
 </p>
 
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jakaria-Ahmod&layout=compact&theme=" alt=Jakaria-Ahmod />
-
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Jakaria-Ahmod&show_icons=true&locale=en&theme=default" alt="Jakaria-Ahmod" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Jakaria-Ahmod&theme=" alt="Jakaria-Ahmod" /></p>
 
