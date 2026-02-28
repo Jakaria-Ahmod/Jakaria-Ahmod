@@ -8,9 +8,8 @@
 <h3 align="center">Front-End Developer | Currently Learning MERN Stack Web Development</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jakaria-Ahmod&label=Profile%20views&color=0e75b6&style=flat" alt="Jakaria-Ahmod" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jakaria-Ahmod&theme=default" alt="Jakaria-Ahmod" /></a> </p>
 
-- 🔭 I’m currently working on [Blog_web_Site](https://blog-web-site-flame.vercel.app/)
+
 - 👯 I’m looking to collaborate on [DeshBoard](https://admin-deshboard.vercel.app/)
 - 🌱 I’m currently learning **MERN Stack Web Development**
 - 💬 Ask me about **MERN STACk**
